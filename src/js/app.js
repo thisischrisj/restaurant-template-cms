@@ -1,4 +1,5 @@
 // JS Goes here - ES6 supported
+/*
 const mySiema = new Siema({
   selector: '.gallery-carousel',
   duration: 200,
@@ -12,3 +13,4 @@ const mySiema = new Siema({
 
 document.querySelector('.prev').addEventListener('click', () => mySiema.prev());
 document.querySelector('.next').addEventListener('click', () => mySiema.next());
+*/
