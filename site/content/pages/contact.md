@@ -12,5 +12,6 @@ Let us know when you'd like to book a reservation and we'll contact you within 3
   <input type="text" placeholder="Your Name" name="name">
   <input type="email" placeholder="Your Email" name="email">
   <textarea name="message" placeholder="When would you like to book a reservation?"></textarea>
+  <div data-netlify-recaptcha></div>
   <button>Send</button>
 </form>
